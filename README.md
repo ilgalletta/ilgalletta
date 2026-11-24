@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ilgalletta
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning coding on Codecademy
-- 📫 How to reach me @logaz on twitter
+- 👀 I’m interested in tech
+- 📫 You can reach me @logaz on X
 
 <!---
 ilgalletta/ilgalletta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
